@@ -1,0 +1,13 @@
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\bin\Debug\netcoreapp3.1\Logical_Operator_practice.exe
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\bin\Debug\netcoreapp3.1\Logical_Operator_practice.deps.json
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\bin\Debug\netcoreapp3.1\Logical_Operator_practice.runtimeconfig.json
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\bin\Debug\netcoreapp3.1\Logical_Operator_practice.runtimeconfig.dev.json
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\bin\Debug\netcoreapp3.1\Logical_Operator_practice.dll
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\bin\Debug\netcoreapp3.1\Logical_Operator_practice.pdb
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\obj\Debug\netcoreapp3.1\Logical_Operator_practice.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\obj\Debug\netcoreapp3.1\Logical_Operator_practice.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\obj\Debug\netcoreapp3.1\Logical_Operator_practice.AssemblyInfo.cs
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\obj\Debug\netcoreapp3.1\Logical_Operator_practice.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\obj\Debug\netcoreapp3.1\Logical_Operator_practice.dll
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\obj\Debug\netcoreapp3.1\Logical_Operator_practice.pdb
+C:\Users\owner\source\repos\Logical_Operator_practice\Logical_Operator_practice\obj\Debug\netcoreapp3.1\Logical_Operator_practice.genruntimeconfig.cache
