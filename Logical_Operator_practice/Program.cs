@@ -17,6 +17,12 @@ namespace Logical_Operator_practice
             Console.WriteLine(locomotiveissteam1 || locomotiveissteam1);
             Console.WriteLine(locomotiveissteam || locomotiveissteam);
 
+            Console.WriteLine("locomotive is steam powered = " + locomotiveissteam);
+            Console.WriteLine("Locomotive is steam powered.. with NOT operator = " + !locomotiveissteam);
+            Console.WriteLine("Locmotive is NOT steam powered = " + locomotiveissteam1);
+            Console.WriteLine("Locomotive is NOT steam powered.. with NOT operator = " + !locomotiveissteam1);
+            Console.ReadKey();
+
 
 
 
