@@ -21,8 +21,26 @@ namespace Logical_Operator_practice
             Console.WriteLine("Locomotive is steam powered.. with NOT operator = " + !locomotiveissteam);
             Console.WriteLine("Locmotive is NOT steam powered = " + locomotiveissteam1);
             Console.WriteLine("Locomotive is NOT steam powered.. with NOT operator = " + !locomotiveissteam1);
-            Console.ReadKey();
+           
 
+            bool automobileisamerican = true;
+            bool automobileisimported = false;
+
+
+            Console.WriteLine(automobileisamerican && automobileisimported);
+            Console.WriteLine(automobileisimported = !automobileisamerican);
+            Console.WriteLine(automobileisamerican != automobileisimported);
+
+            if (automobileisamerican == true)
+            {
+                Console.WriteLine("That is certainly a America First Car Son!");
+            }
+
+            else
+            {
+                Console.WriteLine("That is a imported car, give our workers a chance!");
+            }
+            Console.ReadKey();
 
 
 
